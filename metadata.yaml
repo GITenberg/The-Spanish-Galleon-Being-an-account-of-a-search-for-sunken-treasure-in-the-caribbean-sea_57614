@@ -1,11 +1,16 @@
 _repo: The-Spanish-Galleon-Being-an-account-of-a-search-for-sunken-treasure-in-the-caribbean-sea_57614
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57614-h/images/cover.jpg
 creator:
   author:
     agent_name: Seeley, Charles Sumner
     gutenberg_agent_id: '49504'
     url: http://www.gutenberg.org/2009/agents/49504
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57614#The-Spanish-Galleon-Being-an-account-of-a-search-for-sunken-treasure-in-the-caribbean-sea
 gutenberg_issued: '2018-07-31'
 gutenberg_type: Text
 identifiers:
